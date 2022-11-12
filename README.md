@@ -12,6 +12,8 @@
 
 ### Dionaea Honeypot Deployment (Required)
 
+![image](https://user-images.githubusercontent.com/70921921/201459714-868cf69b-e309-41da-abb6-2ea519e8b14b.png)
+
 **Summary:** In simple terms, Dionaea is a tool that traps malware exploiting vulnerabilities and exposed services going towards a network. Security professionals use a tool such as this in order to gain a copy of the malware and perhaps do sandbox analysis of said malware, but in our case we used it to catch port sniffers.
 
 ![Kapture 2022-11-11 at 21 55 08](https://user-images.githubusercontent.com/70921921/201453331-939c5285-5936-42f3-9ae9-20b76a4d7425.gif)
