@@ -20,7 +20,7 @@
 
 ### Database Backup (Required) 
 
-**Summary:** MHN-Admin uses MongoDB to store data. The information stored within the JSON file is data on attacks to our deployed page, with IP information, source and destination ports, timestamps, protocols and what looks to be potential methods that attackers/scanners have used as I see names such as the very tool we've used (Dionaea) and other ones such as Black Hole.
+**Summary:** MHN-Admin uses MongoDB to store data. The information stored within the JSON file is data on attacks to our deployed page, with IP information, source and destination ports, timestamps, protocols and what looks to be potential methods that attackers/scanners have used as I see names such as Black Hole and pcap that I'm not too familiar with.
 
 *JSON file uploaded to GitHub.*
 
