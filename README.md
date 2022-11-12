@@ -18,10 +18,10 @@
 
 ### Database Backup (Required) 
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+**Summary:** MHN-Admin uses MongoDB to store data. The information stored within the JSON file is data on attacks to our deployed page, with IP information, source and destination ports, timestamps, protocols and what looks to be potential methods that attackers/scanners have used as I see names such as the very tool we've used (Dionaea) and other ones such as Black Hole.
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+*JSON file uploaded to GitHub.*
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+My main challenges with this assignment involved setting up Google Cloud. Once I got the service up and running and set up an account, I had to look at a lot of documentation in order to troubleshoot some issues I was having, but after some perseverance I coasted through the rest of the setup process and was able to complete the assignment easily. It goes to show how people learning this field need to be prepared when it comes to understanding online documentation of tools that you may not have worked with before, and thus this helped me in a sense that I'm not very familiar at all with the Google Cloud platform and using it to deploy these VMs both showed me how powerful it can be and  a basic run down on how to set it up.
