@@ -4,13 +4,13 @@
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
-### MHN-Admin Deployment (Required)
+### MHN-Admin Deployment
 
 **Summary:** I used Google Cloud in order to deploy all my virtual machines for this assignment. It's ease of use was great and interaction with the CLI helped me get a better undertanding of the Google Cloud deployment landscape.
 
 ![Kapture 2022-11-11 at 21 48 56](https://user-images.githubusercontent.com/70921921/201453193-53d0eff3-3075-4d5f-880d-14158a8dace5.gif)
 
-### Dionaea Honeypot Deployment (Required)
+### Dionaea Honeypot Deployment
 
 ![image](https://user-images.githubusercontent.com/70921921/201459714-868cf69b-e309-41da-abb6-2ea519e8b14b.png)
 
@@ -18,7 +18,7 @@
 
 ![Kapture 2022-11-11 at 21 55 08](https://user-images.githubusercontent.com/70921921/201453331-939c5285-5936-42f3-9ae9-20b76a4d7425.gif)
 
-### Database Backup (Required) 
+### Database Backup
 
 **Summary:** I believe MHN-Admin uses MongoDB to store data. The information stored within the JSON file is data on attacks to our deployed page, with IP information, source and destination ports, timestamps, protocols and what looks to be potential methods that attackers/scanners have used as I see names such as Black Hole and pcap that I'm not too familiar with.
 
