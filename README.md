@@ -1,4 +1,4 @@
-# Honeypot Assignment
+# Honeypot Tinkering
 
 **Time spent:** **4** hours spent in total
 
